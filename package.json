@@ -2,9 +2,9 @@
   "name": "covid-stats",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server/server.js",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "devStart": "nodemon server/server.js"
   },
   "keywords": [],
   "author": "",
